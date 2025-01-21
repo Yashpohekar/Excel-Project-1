@@ -1,7 +1,2 @@
 # Excel-Project-1 ( Grocery Store Data Analysis )
-https://github.com/Yashpohekar/Excel-Project-1/blob/main/Grocery%20Store%20Data%20Analysis.png
-
-https://raw.githubusercontent.com/Yashpohekar/Excel-Project-1/refs/heads/main/Grocery%20Store%20Data%20Analysis.png
-
-
-
+<img width="1052" alt="Grocery Store Data Analysis" src="https://github.com/user-attachments/assets/4bcf1262-1981-4913-afd1-99354e846e83" />
